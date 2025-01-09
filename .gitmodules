@@ -1,0 +1,3 @@
+[submodule "Digikoo-v1-AppGameKit"]
+	path = Digikoo-v1-AppGameKit
+	url = https://github.com/DeveloppeurPascal/Digikoo-v1-AppGameKit.git
